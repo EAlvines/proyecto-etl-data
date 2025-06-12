@@ -1,0 +1,201 @@
+ID_Empleado,Nombre,Área,Turno
+E001,María José Barrios Armas,Producción,Mañana
+E002,Luisa Borrás Francisco,Calidad,Mañana
+E003,Marcelino Querol Tomé,Logística,Mañana
+E004,Nélida Cáceres,Producción,Noche
+E005,Macario Barros Nieto,Producción,Noche
+E006,Camila Burgos-Guzmán,Mantenimiento,Mañana
+E007,Celia Vall-Escolano,Producción,Mañana
+E008,Natanael Somoza Malo,Logística,Mañana
+E009,Jonatan Calatayud Moreno,Producción,Noche
+E010,Rosalva Coloma Castilla,Logística,Noche
+E011,César Ortiz Checa,Mantenimiento,Mañana
+E012,Javier Maestre Belda,Mantenimiento,Noche
+E013,Lorenza Bravo Barragán,Calidad,Mañana
+E014,Asdrubal Rincón Porta,Logística,Noche
+E015,Rosario del Mancebo,Mantenimiento,Tarde
+E016,Bernardino Luque-Barrena,Calidad,Mañana
+E017,Victor de Blázquez,Logística,Tarde
+E018,Víctor del Fortuny,Producción,Mañana
+E019,Teófilo Verdejo Jordán,Mantenimiento,Mañana
+E020,Raquel Badía Bravo,Calidad,Tarde
+E021,Horacio del Marin,Calidad,Mañana
+E022,Carmelo del Samper,Mantenimiento,Noche
+E023,Gonzalo Pérez,Producción,Tarde
+E024,Pepe Rodrigo Villalba,Producción,Noche
+E025,Ceferino Samuel Alarcón Carvajal,Calidad,Noche
+E026,Adelardo Tovar Alberola,Calidad,Noche
+E027,Esperanza Reina,Logística,Noche
+E028,Vinicio Goñi Chaparro,Producción,Mañana
+E029,Xiomara Salamanca Juárez,Logística,Tarde
+E030,Maribel Plana Hidalgo,Producción,Mañana
+E031,Delfina Heredia Vendrell,Producción,Tarde
+E032,Montserrat Gonzalez Amat,Calidad,Tarde
+E033,Sabina Mur,Calidad,Mañana
+E034,Íngrid Tejada Marco,Calidad,Tarde
+E035,Isidora Caro-Roma,Logística,Noche
+E036,Urbano Cuevas Ariño,Calidad,Noche
+E037,Chus de Pozo,Producción,Noche
+E038,Marita Mascaró Galván,Logística,Noche
+E039,Sofía Anglada Garmendia,Logística,Mañana
+E040,Carlota Olmedo Barrena,Mantenimiento,Tarde
+E041,Roldán Pinedo Alcántara,Calidad,Noche
+E042,Eufemia Anguita Roman,Logística,Noche
+E043,Anselma Cabezas-Villanueva,Calidad,Mañana
+E044,Rodolfo Cosme Jaume Yáñez,Logística,Mañana
+E045,Calisto Santos Lobato,Calidad,Tarde
+E046,Encarnacion Muñoz Rius,Calidad,Mañana
+E047,Leticia Herrero,Logística,Noche
+E048,Marciano Gracia-Pedrosa,Calidad,Mañana
+E049,Marita Hoyos-Córdoba,Mantenimiento,Tarde
+E050,Sosimo del Sainz,Mantenimiento,Mañana
+E051,Octavio Marc Escamilla Cuéllar,Calidad,Mañana
+E052,Basilio Priego Girona,Logística,Noche
+E053,Samanta Elena Peinado Matas,Calidad,Noche
+E054,Angelita Hidalgo Jerez,Mantenimiento,Noche
+E055,Jose Manuel Salom Pol,Mantenimiento,Tarde
+E056,Octavia Guardiola Sanabria,Logística,Mañana
+E057,Marianela Vara Ribes,Mantenimiento,Mañana
+E058,Jordán Agustín Abella Lumbreras,Producción,Mañana
+E059,Marcela Pallarès Hoyos,Logística,Noche
+E060,Eliana de Roldan,Logística,Noche
+E061,Onofre Llorente-Perez,Mantenimiento,Noche
+E062,Simón Barberá Pera,Producción,Tarde
+E063,Evangelina Porta,Mantenimiento,Noche
+E064,Eusebio Avilés,Mantenimiento,Noche
+E065,Lalo de Paredes,Calidad,Noche
+E066,Adoración Palma Higueras,Producción,Noche
+E067,Rosa Quintana-Aguilera,Producción,Noche
+E068,Fausto Moliner Mateos,Calidad,Noche
+E069,Abilio de Fernandez,Calidad,Mañana
+E070,Benito de Artigas,Calidad,Tarde
+E071,Viviana Matilde Roig Sanjuan,Logística,Tarde
+E072,Rosenda Agustí-Cáceres,Producción,Noche
+E073,Rosalía Puga,Calidad,Noche
+E074,Primitivo Solera Carmona,Logística,Noche
+E075,Anita Cuéllar Cruz,Producción,Noche
+E076,Prudencio Bustamante Quirós,Calidad,Noche
+E077,Clarisa Luna-Boix,Logística,Mañana
+E078,Gabriel Hernández Aller,Calidad,Mañana
+E079,Nazaret Pelayo Vergara,Producción,Noche
+E080,Emperatriz Manzano,Calidad,Tarde
+E081,Saturnina del Abellán,Producción,Mañana
+E082,Leopoldo Gutierrez Lluch,Calidad,Tarde
+E083,Micaela Barba Palomares,Logística,Mañana
+E084,Agustina Valera-Carballo,Logística,Noche
+E085,Reina Baeza Chico,Producción,Mañana
+E086,Damián Carrillo Reig,Mantenimiento,Mañana
+E087,Gloria Cornejo,Logística,Mañana
+E088,Constanza Huguet Lillo,Mantenimiento,Noche
+E089,Juana Aguado Canet,Logística,Tarde
+E090,Heraclio Lerma-Córdoba,Mantenimiento,Mañana
+E091,Francisco Jose Codina-Ayala,Logística,Noche
+E092,Viviana Fabra Anguita,Calidad,Tarde
+E093,Evelia Serrano Sosa,Calidad,Tarde
+E094,Ale Valls Carrillo,Mantenimiento,Mañana
+E095,Cesar de Oliver,Logística,Mañana
+E096,Ignacio Almeida Torrent,Producción,Tarde
+E097,Vanesa Pedraza Machado,Producción,Noche
+E098,Elena de Páez,Logística,Noche
+E099,Ariel Quirós Arranz,Logística,Mañana
+E100,Bartolomé Palomo Berrocal,Producción,Noche
+E101,Mariano Joan Rovira Miralles,Producción,Mañana
+E102,Duilio Chacón,Producción,Mañana
+E103,Dani Villena Cardona,Calidad,Mañana
+E104,Amor Falcón Borrego,Logística,Tarde
+E105,Amaya Borrell-Cases,Mantenimiento,Mañana
+E106,Aureliano Puig-Sanchez,Logística,Noche
+E107,María Ángeles Solé,Mantenimiento,Mañana
+E108,Ani Pareja Barros,Mantenimiento,Tarde
+E109,Enrique del Roura,Logística,Mañana
+E110,Jafet Barragán Bernal,Producción,Noche
+E111,Urbano Barrera Sanjuan,Mantenimiento,Tarde
+E112,Ruy Santamaría Sebastián,Mantenimiento,Tarde
+E113,Bernarda Vega Murillo,Mantenimiento,Noche
+E114,Tomás Vazquez Luján,Producción,Noche
+E115,Noemí Escolano Pastor,Producción,Mañana
+E116,Inmaculada de Arnal,Mantenimiento,Noche
+E117,Natividad Isern Costa,Calidad,Mañana
+E118,Ariel Porcel Boada,Logística,Mañana
+E119,Juanito Cervera Escribano,Logística,Noche
+E120,Lalo Buendía,Mantenimiento,Mañana
+E121,Nilo Ariel Ferrando Nadal,Mantenimiento,Mañana
+E122,Juan Molina Tenorio,Calidad,Tarde
+E123,Marcos Figueroa Echevarría,Logística,Mañana
+E124,Luís Asensio Bonilla,Mantenimiento,Noche
+E125,Valero Godofredo Maza Cabo,Producción,Mañana
+E126,Rosa María Cloe Tejera Sanmartín,Producción,Mañana
+E127,Celestino Manso,Logística,Mañana
+E128,Fabiana Delgado,Mantenimiento,Tarde
+E129,Marianela María Dolores Machado Solís,Mantenimiento,Mañana
+E130,Jose Ignacio Roig-Oliveras,Mantenimiento,Mañana
+E131,Filomena Bustamante Mínguez,Logística,Tarde
+E132,Maximiano de Terrón,Producción,Tarde
+E133,Benigna Amat Quirós,Calidad,Tarde
+E134,Paola Haro,Calidad,Tarde
+E135,Socorro de Blanca,Mantenimiento,Mañana
+E136,Gregorio Tenorio Casares,Logística,Tarde
+E137,Edelmiro Ruano Nevado,Logística,Mañana
+E138,Jorge Galan Piñeiro,Producción,Noche
+E139,Encarnacion Pedrero Acedo,Calidad,Mañana
+E140,Quique Alberola Carrera,Producción,Noche
+E141,Etelvina Villena Ropero,Mantenimiento,Noche
+E142,África Canales Gilabert,Logística,Mañana
+E143,Jesús Cazorla Figueras,Producción,Mañana
+E144,José Luis Torres-Pazos,Producción,Noche
+E145,Macario Cid Valderrama,Producción,Noche
+E146,Celestino Ferrera Oliveras,Logística,Tarde
+E147,Saturnina Jara-Goñi,Producción,Noche
+E148,Manuela Vilalta-Escudero,Logística,Noche
+E149,Lino del Tena,Producción,Noche
+E150,Cirino Lorenzo Gil,Producción,Tarde
+E151,Héctor Robles,Calidad,Tarde
+E152,Paula Tamarit,Logística,Noche
+E153,Ana de Garrido,Calidad,Mañana
+E154,Flavio Miguel Ferrando,Calidad,Tarde
+E155,Leocadio Guitart-Bas,Logística,Noche
+E156,Zaida Vara Hidalgo,Calidad,Tarde
+E157,Angelina Laguna Sanmartín,Calidad,Mañana
+E158,Víctor Villalobos-Malo,Producción,Tarde
+E159,Jacobo Bonet Lobato,Producción,Mañana
+E160,Darío Antón,Logística,Noche
+E161,Paz Nebot-Corominas,Calidad,Mañana
+E162,Tomás Alsina Navas,Calidad,Mañana
+E163,Agustín Escrivá,Logística,Tarde
+E164,Susanita Sanjuan Coloma,Calidad,Mañana
+E165,Cruz Manzano-Palomares,Mantenimiento,Noche
+E166,Domitila Mulet Ribas,Calidad,Noche
+E167,Federico Agustín,Producción,Noche
+E168,Paulina Clavero Agustín,Calidad,Noche
+E169,Mario Casado Jaén,Producción,Mañana
+E170,Víctor Román Roma,Calidad,Mañana
+E171,Constanza Mosquera Reyes,Producción,Noche
+E172,Agapito Palomo Leiva,Logística,Tarde
+E173,Socorro Arranz Garcés,Calidad,Noche
+E174,Febe Manrique Vilanova,Logística,Noche
+E175,Rosalina Matas Mate,Calidad,Mañana
+E176,Manu del Cobos,Calidad,Noche
+E177,Norberto Melero Pavón,Mantenimiento,Tarde
+E178,Odalys Ariel Julián Jaume,Producción,Mañana
+E179,Nacho de Cueto,Mantenimiento,Tarde
+E180,Evelia Vélez,Producción,Mañana
+E181,Arcelia del Vilaplana,Calidad,Mañana
+E182,Reinaldo Cantero Muro,Calidad,Mañana
+E183,Cristóbal Guitart Salinas,Mantenimiento,Noche
+E184,Eva María Tormo Acedo,Mantenimiento,Noche
+E185,Olga Peláez Oliva,Producción,Mañana
+E186,Gervasio Primitivo Marti Paredes,Producción,Noche
+E187,Severo Mateos Aparicio,Logística,Noche
+E188,Gracia del Gomila,Producción,Tarde
+E189,Asdrubal del Casado,Logística,Tarde
+E190,Armida Valentín Calzada,Logística,Mañana
+E191,Sol Benito Menéndez,Calidad,Tarde
+E192,Florentina Bayona Alberola,Producción,Tarde
+E193,Florinda Benavente Céspedes,Logística,Noche
+E194,Ligia Tomas Sancho,Logística,Noche
+E195,Balduino Ibáñez Castilla,Producción,Tarde
+E196,Jerónimo Llopis Higueras,Mantenimiento,Noche
+E197,Maximiliano Fabra Menéndez,Logística,Mañana
+E198,Manuelita Palmer Romero,Logística,Mañana
+E199,Natalia Torre Ferreras,Mantenimiento,Mañana
+E200,Lázaro de Bellido,Logística,Noche
