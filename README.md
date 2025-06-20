@@ -1,2 +1,2 @@
 # PROYECTOS
-Hola! En este espacio comparto mis proyectos personales realizados usando diferentes herramientas. 😉 
+Hola! En este espacio comparto mis proyectos realizados usando diferentes herramientas. 😉 
