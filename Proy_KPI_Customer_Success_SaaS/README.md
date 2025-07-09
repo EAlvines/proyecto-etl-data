@@ -1,6 +1,6 @@
 # 📊 Customer Success Dashboard
 
-Este proyecto analiza métricas clave de Customer Success usando datos simulados de una empresa SaaS tipo BUK en Lima, Perú.
+Este proyecto analiza métricas clave de Customer Success usando datos simulados de una empresa SaaS tipo BUK, SuccesFactor, Talana entre otras, en Lima, Perú.
 
 ## 🧩 Objetivo: visualizar y analizar indicadores del journey del cliente, como:
 - Onboarding completado
