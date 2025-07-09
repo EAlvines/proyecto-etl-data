@@ -1,7 +1,8 @@
 # 📊 Dashboard de KPIs de SLA - Área de Soporte PostVenta
 Este proyecto es una **simulación basada en un caso real** que trabajé durante mi experiencia profesional en el área de **Customer Success Analyst**. El objetivo fue desarrollar un tablero de control interactivo en **Power BI** para visualizar los KPIs clave relacionados con el cumplimiento de **SLAs (Service Level Agreements)** en un equipo de soporte y atención al cliente.
 
-# Objetivo del Dashboard: monitorear el desempeño del área de Soporte PosVenta, identificar oportunidades de mejora en tiempos de atención y resolución, así como evaluar la satisfacción del cliente a nivel general.
+# Objetivo del Dashboard: 
+Monitorear el desempeño del área de Soporte PosVenta, identificar oportunidades de mejora en tiempos de atención y resolución, así como evaluar la satisfacción del cliente a nivel general.
 
 ## 🛠️ Herramientas Utilizadas
 - **Power BI** (para visualización y creación de KPIs con DAX)
