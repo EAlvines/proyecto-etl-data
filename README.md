@@ -7,7 +7,7 @@ Cada proyecto incluye:
 - Visualización de KPIs en Power BI
 - Dataset de ejemplo para practicar
 
-> 🔧 Herramientas: SQL Server, Power BI, Excel
+> 🔧 Herramientas: SQL Server, Power BI, Excel, Python
 
 ## 📁 Lista de Proyectos:
 - Dashboard de KPIs SLA – 1Q 2025
