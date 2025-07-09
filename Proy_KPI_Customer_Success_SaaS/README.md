@@ -27,7 +27,8 @@ Este proyecto analiza métricas clave de Customer Success usando datos simulados
 
 **NPS (Net Promoter Score): Métrica de lealtad del cliente**
 
-## 📷 Vista previa
+## 📷 Vista previa: 
+https://github.com/EAlvines/Proyectos-SQL-PowerBI/blob/main/Proy_KPI_Customer_Success_SaaS/DS_Reporte_KPIs_CustomerSuccess.jpg
 
 ## ✍️ Autora
 Emily Alvines — Analista de Datos con enfoque en análisis de negocio y automatización con Python.
