@@ -1,9 +1,9 @@
 #📊 Proyecto de Análisis de Banca Comercial - PSQL + Power BI
 
-Este proyecto simula un **análisis de ventas y comportamiento de clientes** en una empresa tipo banca/fintech, utilizando herramientas de visualización e inteligencia de negocios con Power BI.
+Este proyecto simula un análisis de ventas y comportamiento de clientes en una empresa tipo banca/fintech, utilizando herramientas de visualización e inteligencia de negocios con Power BI.
 
 ##🧩Dataset
-Los datos utilizados son **simulados** y representan ventas mensuales, productos contratados y comportamiento por tipo de cliente.
+Los datos utilizados son simulados y representan ventas mensuales, productos contratados y comportamiento por tipo de cliente.
 
 - Periodo: Abril, Mayo y Junio
 - Tablas:
