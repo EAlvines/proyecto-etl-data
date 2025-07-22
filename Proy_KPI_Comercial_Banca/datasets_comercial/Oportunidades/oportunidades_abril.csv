@@ -1,0 +1,263 @@
+oportunidad_id,lead_id,fecha_oportunidad,estado_oportunidad,producto_ofertado,monto_estimado
+1,1,2025-06-25,Perdida,Tarjeta de crédito,3922.08
+2,2,2025-04-28,Ganada,Cuenta sueldo,2696.1
+3,3,2025-05-04,Ganada,Tarjeta de crédito,2270.97
+4,6,2025-04-10,Ganada,Cuenta sueldo,3372.1
+5,7,2025-05-04,Perdida,Préstamo personal,8241.16
+6,10,2025-04-04,Ganada,Préstamo personal,4464.67
+7,12,2025-05-10,Ganada,Cuenta sueldo,2421.95
+8,13,2025-04-29,Ganada,Tarjeta de crédito,2001.46
+9,14,2025-05-26,Abierta,Cuenta sueldo,780.09
+10,17,2025-04-07,Ganada,Cuenta sueldo,6317.44
+11,18,2025-06-10,Ganada,Tarjeta de crédito,5272.08
+12,22,2025-05-20,Abierta,Préstamo personal,9307.48
+13,23,2025-05-31,Perdida,Préstamo personal,8932.08
+14,24,2025-05-25,Perdida,Tarjeta de crédito,7341.91
+15,25,2025-06-09,Ganada,Préstamo personal,8819.94
+16,26,2025-04-14,Ganada,Tarjeta de crédito,5609.76
+17,29,2025-04-19,Perdida,Préstamo personal,4904.0
+18,32,2025-06-25,Ganada,Cuenta sueldo,2418.35
+19,33,2025-04-19,Abierta,Préstamo personal,1584.57
+20,35,2025-04-29,Abierta,Préstamo personal,5728.29
+21,36,2025-04-09,Ganada,Cuenta sueldo,1925.85
+22,39,2025-05-27,Ganada,Cuenta sueldo,4857.11
+23,44,2025-06-05,Ganada,Cuenta sueldo,8461.14
+24,46,2025-04-01,Ganada,Cuenta sueldo,6152.21
+25,49,2025-04-27,Abierta,Cuenta sueldo,4972.76
+26,51,2025-06-04,Ganada,Préstamo personal,1538.37
+27,53,2025-05-26,Ganada,Tarjeta de crédito,5963.86
+28,55,2025-06-05,Ganada,Tarjeta de crédito,3259.64
+29,56,2025-05-19,Ganada,Tarjeta de crédito,6345.43
+30,57,2025-04-14,Ganada,Tarjeta de crédito,6585.87
+31,58,2025-06-02,Ganada,Tarjeta de crédito,558.25
+32,59,2025-05-30,Abierta,Préstamo personal,2168.48
+33,63,2025-06-20,Ganada,Préstamo personal,7387.16
+34,64,2025-04-28,Ganada,Cuenta sueldo,8936.28
+35,66,2025-04-28,Ganada,Préstamo personal,4200.88
+36,67,2025-05-31,Ganada,Préstamo personal,1324.58
+37,69,2025-06-14,Perdida,Tarjeta de crédito,4715.85
+38,72,2025-04-17,Perdida,Cuenta sueldo,6928.81
+39,75,2025-05-14,Abierta,Tarjeta de crédito,7778.71
+40,76,2025-05-14,Ganada,Cuenta sueldo,2493.53
+41,77,2025-05-03,Ganada,Préstamo personal,3090.21
+42,78,2025-06-01,Ganada,Préstamo personal,3828.02
+43,80,2025-06-01,Abierta,Préstamo personal,775.43
+44,82,2025-04-05,Perdida,Tarjeta de crédito,6479.97
+45,89,2025-04-02,Perdida,Cuenta sueldo,4806.19
+46,98,2025-05-30,Ganada,Préstamo personal,6794.82
+47,99,2025-04-28,Ganada,Cuenta sueldo,1427.71
+48,101,2025-04-04,Abierta,Tarjeta de crédito,2567.31
+49,102,2025-05-30,Ganada,Préstamo personal,4803.26
+50,103,2025-06-05,Ganada,Cuenta sueldo,5917.63
+51,107,2025-06-07,Ganada,Cuenta sueldo,8681.85
+52,108,2025-06-09,Ganada,Préstamo personal,4634.31
+53,109,2025-04-14,Perdida,Cuenta sueldo,3922.73
+54,112,2025-06-22,Perdida,Cuenta sueldo,1789.87
+55,113,2025-04-23,Perdida,Préstamo personal,7106.21
+56,116,2025-04-19,Ganada,Cuenta sueldo,8544.64
+57,117,2025-04-11,Abierta,Tarjeta de crédito,859.72
+58,121,2025-04-27,Ganada,Cuenta sueldo,6852.81
+59,123,2025-05-10,Ganada,Tarjeta de crédito,7471.24
+60,126,2025-06-20,Ganada,Préstamo personal,3271.66
+61,127,2025-04-15,Perdida,Cuenta sueldo,3139.56
+62,129,2025-05-22,Perdida,Cuenta sueldo,7520.19
+63,131,2025-06-06,Perdida,Tarjeta de crédito,3757.06
+64,133,2025-05-07,Ganada,Tarjeta de crédito,4681.76
+65,134,2025-06-23,Abierta,Cuenta sueldo,2092.2
+66,139,2025-05-15,Perdida,Cuenta sueldo,4601.97
+67,142,2025-06-22,Ganada,Préstamo personal,6938.32
+68,143,2025-05-08,Abierta,Préstamo personal,1428.14
+69,146,2025-04-02,Perdida,Cuenta sueldo,9529.65
+70,148,2025-06-28,Abierta,Tarjeta de crédito,1553.03
+71,156,2025-06-05,Ganada,Cuenta sueldo,6332.68
+72,158,2025-05-02,Abierta,Tarjeta de crédito,6583.19
+73,163,2025-04-16,Perdida,Cuenta sueldo,3667.68
+74,164,2025-04-27,Perdida,Tarjeta de crédito,1361.34
+75,165,2025-06-18,Ganada,Cuenta sueldo,2429.64
+76,170,2025-06-04,Ganada,Cuenta sueldo,9667.06
+77,174,2025-05-25,Ganada,Cuenta sueldo,681.1
+78,175,2025-05-08,Perdida,Cuenta sueldo,8297.02
+79,180,2025-06-15,Ganada,Tarjeta de crédito,3687.29
+80,181,2025-04-04,Ganada,Cuenta sueldo,9293.92
+81,182,2025-04-14,Abierta,Cuenta sueldo,568.63
+82,183,2025-06-04,Ganada,Préstamo personal,8170.41
+83,184,2025-06-06,Ganada,Cuenta sueldo,9411.85
+84,185,2025-05-31,Abierta,Préstamo personal,8351.59
+85,188,2025-05-26,Perdida,Préstamo personal,5321.64
+86,190,2025-06-05,Perdida,Cuenta sueldo,5006.92
+87,196,2025-05-14,Ganada,Préstamo personal,2388.14
+88,198,2025-04-26,Ganada,Préstamo personal,2596.3
+89,201,2025-05-15,Perdida,Préstamo personal,2421.0
+90,204,2025-04-21,Ganada,Tarjeta de crédito,8000.7
+91,205,2025-06-17,Abierta,Préstamo personal,8641.25
+92,207,2025-06-03,Ganada,Tarjeta de crédito,2843.21
+93,212,2025-05-12,Ganada,Cuenta sueldo,4362.87
+94,214,2025-05-26,Ganada,Cuenta sueldo,731.93
+95,216,2025-06-04,Abierta,Préstamo personal,6459.4
+96,217,2025-06-11,Ganada,Préstamo personal,7652.44
+97,218,2025-06-15,Ganada,Préstamo personal,9356.31
+98,221,2025-04-17,Ganada,Préstamo personal,7848.97
+99,222,2025-06-12,Ganada,Préstamo personal,7646.63
+100,223,2025-04-14,Ganada,Tarjeta de crédito,4517.83
+101,224,2025-06-26,Perdida,Tarjeta de crédito,4966.56
+102,229,2025-06-11,Ganada,Tarjeta de crédito,6459.12
+103,234,2025-05-29,Perdida,Tarjeta de crédito,3411.7
+104,238,2025-06-16,Ganada,Cuenta sueldo,6830.38
+105,239,2025-05-06,Ganada,Cuenta sueldo,4011.89
+106,241,2025-04-03,Abierta,Tarjeta de crédito,3364.82
+107,242,2025-04-12,Perdida,Tarjeta de crédito,9314.21
+108,245,2025-05-30,Ganada,Préstamo personal,9261.77
+109,246,2025-04-16,Abierta,Cuenta sueldo,735.56
+110,248,2025-04-04,Ganada,Préstamo personal,9388.82
+111,249,2025-04-10,Perdida,Préstamo personal,9770.48
+112,255,2025-06-01,Ganada,Préstamo personal,8153.89
+113,256,2025-06-03,Abierta,Cuenta sueldo,3380.7
+114,257,2025-04-16,Abierta,Cuenta sueldo,4389.88
+115,258,2025-04-15,Ganada,Tarjeta de crédito,7674.82
+116,261,2025-06-25,Abierta,Cuenta sueldo,3351.61
+117,264,2025-06-23,Ganada,Tarjeta de crédito,5064.62
+118,266,2025-04-15,Abierta,Tarjeta de crédito,4879.92
+119,269,2025-04-30,Ganada,Préstamo personal,2240.85
+120,270,2025-04-18,Perdida,Préstamo personal,7007.19
+121,275,2025-05-31,Perdida,Cuenta sueldo,5493.7
+122,279,2025-05-27,Ganada,Préstamo personal,7244.0
+123,280,2025-06-18,Abierta,Cuenta sueldo,2652.46
+124,284,2025-04-08,Ganada,Préstamo personal,9131.03
+125,290,2025-04-04,Perdida,Préstamo personal,2131.85
+126,296,2025-06-01,Ganada,Tarjeta de crédito,885.78
+127,297,2025-05-03,Ganada,Tarjeta de crédito,9773.7
+128,303,2025-05-06,Perdida,Tarjeta de crédito,1666.24
+129,309,2025-04-24,Perdida,Cuenta sueldo,4135.01
+130,310,2025-06-03,Abierta,Cuenta sueldo,1226.91
+131,316,2025-05-01,Ganada,Cuenta sueldo,8904.65
+132,318,2025-04-03,Ganada,Préstamo personal,5936.0
+133,320,2025-05-25,Ganada,Préstamo personal,9788.94
+134,329,2025-05-11,Perdida,Cuenta sueldo,4088.51
+135,333,2025-05-23,Perdida,Cuenta sueldo,1215.55
+136,335,2025-04-03,Abierta,Cuenta sueldo,8519.78
+137,338,2025-05-11,Ganada,Préstamo personal,6802.84
+138,339,2025-05-30,Ganada,Tarjeta de crédito,5701.84
+139,341,2025-05-27,Perdida,Tarjeta de crédito,9114.94
+140,343,2025-06-27,Ganada,Cuenta sueldo,8519.16
+141,344,2025-04-23,Ganada,Préstamo personal,3226.92
+142,346,2025-04-11,Ganada,Cuenta sueldo,5111.13
+143,348,2025-06-27,Abierta,Tarjeta de crédito,8598.95
+144,349,2025-04-29,Abierta,Cuenta sueldo,6215.2
+145,350,2025-05-25,Perdida,Tarjeta de crédito,4270.5
+146,351,2025-06-04,Ganada,Cuenta sueldo,1646.1
+147,353,2025-05-29,Ganada,Tarjeta de crédito,8155.5
+148,359,2025-06-15,Perdida,Tarjeta de crédito,830.69
+149,362,2025-05-12,Ganada,Préstamo personal,9143.0
+150,364,2025-05-14,Abierta,Tarjeta de crédito,4669.04
+151,365,2025-05-29,Ganada,Préstamo personal,1260.9
+152,366,2025-04-17,Perdida,Tarjeta de crédito,8331.81
+153,368,2025-04-14,Ganada,Tarjeta de crédito,2245.53
+154,371,2025-06-04,Ganada,Cuenta sueldo,6667.22
+155,373,2025-04-15,Perdida,Tarjeta de crédito,8095.52
+156,376,2025-05-27,Perdida,Préstamo personal,9754.21
+157,387,2025-05-17,Ganada,Tarjeta de crédito,598.04
+158,388,2025-06-27,Ganada,Préstamo personal,7492.99
+159,391,2025-05-04,Ganada,Cuenta sueldo,9786.48
+160,396,2025-06-07,Perdida,Tarjeta de crédito,3187.79
+161,397,2025-04-26,Ganada,Préstamo personal,2067.35
+162,400,2025-04-15,Ganada,Tarjeta de crédito,9954.42
+163,404,2025-04-08,Ganada,Préstamo personal,6799.81
+164,406,2025-06-27,Perdida,Cuenta sueldo,746.64
+165,407,2025-05-24,Perdida,Tarjeta de crédito,8451.28
+166,409,2025-06-20,Abierta,Tarjeta de crédito,9712.82
+167,412,2025-04-08,Ganada,Préstamo personal,1379.23
+168,413,2025-05-23,Abierta,Cuenta sueldo,7905.18
+169,416,2025-06-08,Ganada,Tarjeta de crédito,5151.42
+170,417,2025-04-22,Ganada,Cuenta sueldo,4624.01
+171,418,2025-06-10,Ganada,Tarjeta de crédito,9341.34
+172,424,2025-05-26,Ganada,Préstamo personal,6062.89
+173,425,2025-05-30,Abierta,Cuenta sueldo,4454.39
+174,426,2025-05-19,Ganada,Tarjeta de crédito,4774.51
+175,431,2025-06-27,Ganada,Préstamo personal,8224.76
+176,433,2025-04-19,Ganada,Cuenta sueldo,2288.1
+177,435,2025-06-06,Abierta,Cuenta sueldo,4507.85
+178,436,2025-05-04,Ganada,Cuenta sueldo,5107.94
+179,437,2025-04-27,Perdida,Cuenta sueldo,983.76
+180,439,2025-04-28,Ganada,Préstamo personal,3262.36
+181,440,2025-04-12,Ganada,Cuenta sueldo,3500.58
+182,447,2025-05-06,Ganada,Tarjeta de crédito,7617.92
+183,448,2025-04-03,Abierta,Cuenta sueldo,4451.85
+184,450,2025-06-25,Ganada,Cuenta sueldo,2006.75
+185,453,2025-05-29,Ganada,Tarjeta de crédito,5791.71
+186,456,2025-06-24,Abierta,Préstamo personal,1621.56
+187,457,2025-04-20,Ganada,Tarjeta de crédito,7738.66
+188,460,2025-05-08,Ganada,Cuenta sueldo,3224.2
+189,464,2025-04-05,Ganada,Tarjeta de crédito,782.75
+190,469,2025-05-25,Ganada,Tarjeta de crédito,3480.1
+191,471,2025-04-19,Ganada,Tarjeta de crédito,6372.78
+192,473,2025-05-27,Ganada,Tarjeta de crédito,2530.48
+193,475,2025-04-20,Perdida,Cuenta sueldo,1549.2
+194,476,2025-05-02,Ganada,Tarjeta de crédito,953.46
+195,477,2025-05-12,Ganada,Tarjeta de crédito,9838.03
+196,479,2025-06-08,Ganada,Préstamo personal,3614.55
+197,485,2025-04-15,Ganada,Tarjeta de crédito,2047.01
+198,486,2025-05-17,Abierta,Cuenta sueldo,2520.1
+199,488,2025-05-08,Abierta,Cuenta sueldo,4011.07
+200,492,2025-04-01,Ganada,Cuenta sueldo,8281.69
+201,496,2025-06-20,Ganada,Préstamo personal,1915.33
+202,499,2025-05-13,Perdida,Préstamo personal,7218.48
+203,500,2025-05-26,Abierta,Préstamo personal,9574.1
+204,503,2025-06-21,Ganada,Cuenta sueldo,7203.37
+205,507,2025-05-23,Ganada,Cuenta sueldo,2235.35
+206,509,2025-06-10,Ganada,Cuenta sueldo,1438.07
+207,512,2025-06-28,Ganada,Tarjeta de crédito,1593.27
+208,514,2025-04-29,Ganada,Cuenta sueldo,1464.34
+209,519,2025-06-23,Perdida,Cuenta sueldo,6396.93
+210,522,2025-05-16,Ganada,Tarjeta de crédito,932.1
+211,523,2025-04-09,Perdida,Cuenta sueldo,7388.2
+212,524,2025-04-07,Perdida,Tarjeta de crédito,3523.89
+213,526,2025-04-25,Ganada,Tarjeta de crédito,2500.93
+214,527,2025-05-03,Abierta,Préstamo personal,591.0
+215,528,2025-04-18,Ganada,Tarjeta de crédito,7743.42
+216,529,2025-05-22,Perdida,Préstamo personal,4729.18
+217,530,2025-06-25,Ganada,Tarjeta de crédito,2183.27
+218,532,2025-04-24,Ganada,Cuenta sueldo,6965.27
+219,533,2025-06-09,Ganada,Préstamo personal,9811.13
+220,537,2025-06-15,Ganada,Préstamo personal,2167.52
+221,540,2025-04-20,Ganada,Préstamo personal,8889.47
+222,541,2025-04-01,Ganada,Tarjeta de crédito,1656.32
+223,542,2025-04-16,Ganada,Préstamo personal,3140.36
+224,548,2025-04-09,Perdida,Cuenta sueldo,8484.82
+225,550,2025-05-12,Ganada,Cuenta sueldo,1192.65
+226,551,2025-06-24,Abierta,Préstamo personal,1076.53
+227,552,2025-05-11,Ganada,Tarjeta de crédito,7935.14
+228,553,2025-05-09,Ganada,Cuenta sueldo,1467.36
+229,555,2025-05-02,Ganada,Cuenta sueldo,4807.41
+230,558,2025-04-07,Perdida,Préstamo personal,9091.51
+231,562,2025-04-24,Ganada,Préstamo personal,3898.56
+232,565,2025-04-26,Perdida,Cuenta sueldo,8657.67
+233,568,2025-05-29,Ganada,Préstamo personal,5994.9
+234,572,2025-04-30,Perdida,Cuenta sueldo,3649.39
+235,578,2025-04-15,Ganada,Cuenta sueldo,3728.27
+236,579,2025-06-23,Perdida,Cuenta sueldo,699.44
+237,584,2025-05-18,Ganada,Cuenta sueldo,3520.54
+238,585,2025-06-04,Perdida,Cuenta sueldo,3294.74
+239,588,2025-06-02,Ganada,Cuenta sueldo,6341.42
+240,590,2025-06-08,Ganada,Préstamo personal,9579.64
+241,591,2025-05-29,Ganada,Préstamo personal,9001.4
+242,595,2025-04-14,Ganada,Tarjeta de crédito,890.86
+243,601,2025-04-21,Ganada,Tarjeta de crédito,6913.52
+244,604,2025-05-27,Ganada,Tarjeta de crédito,612.96
+245,606,2025-05-13,Ganada,Tarjeta de crédito,7697.4
+246,607,2025-06-13,Ganada,Cuenta sueldo,9448.33
+247,613,2025-06-21,Ganada,Tarjeta de crédito,6274.45
+248,614,2025-05-23,Abierta,Tarjeta de crédito,1532.06
+249,620,2025-06-06,Ganada,Cuenta sueldo,1991.84
+250,623,2025-06-27,Ganada,Cuenta sueldo,2428.24
+251,625,2025-05-12,Ganada,Cuenta sueldo,3624.47
+252,628,2025-05-22,Perdida,Tarjeta de crédito,4443.0
+253,632,2025-04-19,Ganada,Préstamo personal,2563.92
+254,633,2025-04-09,Ganada,Tarjeta de crédito,7905.35
+255,640,2025-06-08,Ganada,Cuenta sueldo,2183.75
+256,641,2025-06-26,Abierta,Cuenta sueldo,3095.9
+257,644,2025-06-29,Ganada,Préstamo personal,9021.59
+258,648,2025-05-23,Ganada,Cuenta sueldo,1100.13
+259,650,2025-05-16,Abierta,Tarjeta de crédito,2467.63
+260,657,2025-06-25,Perdida,Cuenta sueldo,5907.45
+261,662,2025-06-03,Abierta,Préstamo personal,701.53
+262,663,2025-05-05,Ganada,Tarjeta de crédito,6387.78

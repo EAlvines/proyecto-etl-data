@@ -1,0 +1,151 @@
+venta_id,oportunidad_id,cliente_id,producto_contratado,fecha_venta,monto_venta,canal_venta
+283,472,1087,Préstamo personal,2025-06-22,3932.36,Presencial
+284,473,1291,Tarjeta de crédito,2025-04-09,5045.93,App
+285,475,1002,Préstamo personal,2025-05-06,8309.47,Call center
+286,476,843,Tarjeta de crédito,2025-04-30,6762.23,App
+287,477,632,Tarjeta de crédito,2025-04-01,8189.31,Web
+288,478,1257,Préstamo personal,2025-05-29,1582.29,App
+289,479,1133,Tarjeta de crédito,2025-05-14,3514.47,Web
+290,480,42,Tarjeta de crédito,2025-04-05,661.71,Presencial
+291,482,196,Cuenta sueldo,2025-06-03,9665.69,Call center
+292,483,48,Cuenta sueldo,2025-04-25,4359.35,Call center
+293,484,1491,Préstamo personal,2025-05-16,9723.63,Presencial
+294,485,172,Préstamo personal,2025-05-29,7529.06,Call center
+295,489,1118,Cuenta sueldo,2025-05-28,8049.31,Call center
+296,490,167,Tarjeta de crédito,2025-05-07,9386.54,App
+297,492,1332,Préstamo personal,2025-05-10,3761.22,Presencial
+298,495,826,Tarjeta de crédito,2025-04-27,6991.52,Presencial
+299,496,1213,Cuenta sueldo,2025-06-01,3712.72,Web
+300,499,514,Préstamo personal,2025-06-04,5347.04,Presencial
+301,500,392,Tarjeta de crédito,2025-06-13,5681.27,Presencial
+302,504,649,Cuenta sueldo,2025-05-02,7431.51,Presencial
+303,506,172,Cuenta sueldo,2025-06-09,6938.87,Web
+304,509,551,Cuenta sueldo,2025-04-21,7697.46,Presencial
+305,512,1216,Préstamo personal,2025-04-28,6454.41,Call center
+306,513,83,Tarjeta de crédito,2025-05-05,4716.84,App
+307,516,706,Cuenta sueldo,2025-06-14,4631.9,App
+308,519,1202,Préstamo personal,2025-06-28,6214.37,Call center
+309,526,812,Tarjeta de crédito,2025-04-04,805.2,Presencial
+310,527,1073,Tarjeta de crédito,2025-06-06,8458.18,Presencial
+311,528,888,Cuenta sueldo,2025-04-27,1369.78,Web
+312,529,1389,Tarjeta de crédito,2025-04-13,8749.3,App
+313,530,674,Préstamo personal,2025-05-16,6584.49,Presencial
+314,531,67,Cuenta sueldo,2025-05-12,3023.22,Call center
+315,532,1085,Préstamo personal,2025-04-22,2407.08,Web
+316,534,582,Préstamo personal,2025-06-29,7854.6,App
+317,535,1228,Préstamo personal,2025-04-29,2455.05,App
+318,536,1303,Préstamo personal,2025-04-24,6277.23,Presencial
+319,539,47,Cuenta sueldo,2025-06-28,10006.24,App
+320,542,963,Cuenta sueldo,2025-05-01,5831.67,Web
+321,543,1244,Tarjeta de crédito,2025-05-12,7514.8,Web
+322,545,878,Tarjeta de crédito,2025-05-03,7054.99,Web
+323,546,1479,Cuenta sueldo,2025-04-22,7489.36,Web
+324,547,287,Tarjeta de crédito,2025-05-14,5714.35,Call center
+325,548,629,Cuenta sueldo,2025-05-21,7928.85,Presencial
+326,549,832,Tarjeta de crédito,2025-06-15,9917.24,Web
+327,550,775,Tarjeta de crédito,2025-05-26,5871.59,App
+328,551,778,Préstamo personal,2025-05-06,4602.7,Call center
+329,552,404,Cuenta sueldo,2025-05-13,1589.16,App
+330,554,375,Cuenta sueldo,2025-06-16,3043.95,Web
+331,555,105,Cuenta sueldo,2025-04-05,1381.63,App
+332,558,229,Tarjeta de crédito,2025-06-27,7061.53,App
+333,560,211,Cuenta sueldo,2025-06-18,5743.45,App
+334,561,1058,Tarjeta de crédito,2025-05-16,2184.53,App
+335,562,1154,Tarjeta de crédito,2025-05-09,3353.21,Presencial
+336,563,1265,Tarjeta de crédito,2025-04-10,8080.76,Call center
+337,565,898,Cuenta sueldo,2025-06-18,5540.0,Call center
+338,566,140,Préstamo personal,2025-06-05,1970.45,Presencial
+339,567,467,Tarjeta de crédito,2025-05-20,3524.19,Presencial
+340,568,99,Cuenta sueldo,2025-06-17,8698.75,Web
+341,569,579,Cuenta sueldo,2025-06-08,5702.76,Call center
+342,571,391,Préstamo personal,2025-04-19,7013.03,App
+343,572,44,Tarjeta de crédito,2025-06-27,9323.36,Presencial
+344,574,1091,Cuenta sueldo,2025-06-04,7728.05,Call center
+345,575,387,Préstamo personal,2025-04-27,6306.64,App
+346,577,359,Cuenta sueldo,2025-05-21,1686.43,Call center
+347,582,1468,Cuenta sueldo,2025-06-25,5818.39,Presencial
+348,584,547,Tarjeta de crédito,2025-05-21,6294.08,Presencial
+349,585,406,Préstamo personal,2025-04-24,7126.52,App
+350,586,24,Cuenta sueldo,2025-04-26,4330.8,Web
+351,588,573,Cuenta sueldo,2025-05-10,1669.63,Call center
+352,589,1064,Préstamo personal,2025-06-26,3574.59,Call center
+353,595,497,Cuenta sueldo,2025-05-21,7988.75,App
+354,596,1288,Tarjeta de crédito,2025-05-01,5588.19,Presencial
+355,598,1499,Préstamo personal,2025-04-04,1509.54,App
+356,600,454,Cuenta sueldo,2025-05-29,6175.43,Web
+357,604,705,Cuenta sueldo,2025-05-24,8030.2,Call center
+358,605,1301,Tarjeta de crédito,2025-06-06,6803.23,App
+359,606,822,Cuenta sueldo,2025-04-25,3738.13,App
+360,607,995,Préstamo personal,2025-05-19,8373.84,Call center
+361,609,789,Tarjeta de crédito,2025-05-21,3930.75,Call center
+362,610,561,Cuenta sueldo,2025-05-29,1785.75,Presencial
+363,611,1140,Cuenta sueldo,2025-06-01,4717.87,Presencial
+364,612,793,Tarjeta de crédito,2025-06-22,6777.72,App
+365,613,1040,Tarjeta de crédito,2025-06-28,1476.99,App
+366,614,109,Préstamo personal,2025-06-02,3032.46,Presencial
+367,618,146,Préstamo personal,2025-04-15,1674.26,Web
+368,619,368,Préstamo personal,2025-05-19,6631.78,Call center
+369,620,827,Préstamo personal,2025-05-07,1415.17,Web
+370,622,1242,Tarjeta de crédito,2025-06-25,632.88,Web
+371,623,143,Tarjeta de crédito,2025-06-01,4431.06,Call center
+372,626,715,Préstamo personal,2025-06-20,3388.24,Web
+373,629,1095,Préstamo personal,2025-06-29,6812.72,Presencial
+374,630,760,Préstamo personal,2025-05-15,2273.23,Web
+375,631,782,Tarjeta de crédito,2025-04-02,875.06,App
+376,632,92,Cuenta sueldo,2025-06-16,7876.88,Presencial
+377,633,1283,Préstamo personal,2025-04-26,5694.86,App
+378,635,920,Préstamo personal,2025-05-27,6584.15,Presencial
+379,637,74,Cuenta sueldo,2025-05-09,5389.47,App
+380,640,1121,Cuenta sueldo,2025-05-04,2218.93,Call center
+381,641,213,Préstamo personal,2025-06-16,896.98,Web
+382,644,1304,Tarjeta de crédito,2025-04-21,3744.87,Call center
+383,645,1498,Tarjeta de crédito,2025-05-13,3015.14,App
+384,648,629,Tarjeta de crédito,2025-05-12,3828.09,Presencial
+385,649,1278,Tarjeta de crédito,2025-05-22,8934.57,App
+386,651,1154,Tarjeta de crédito,2025-04-06,7995.26,App
+387,653,199,Préstamo personal,2025-06-19,883.31,Presencial
+388,654,915,Cuenta sueldo,2025-04-13,9047.58,Presencial
+389,655,1414,Cuenta sueldo,2025-05-29,10526.33,Call center
+390,656,41,Cuenta sueldo,2025-06-14,5117.06,Web
+391,657,1008,Tarjeta de crédito,2025-06-03,750.15,Presencial
+392,659,518,Cuenta sueldo,2025-04-29,1976.35,Call center
+393,660,692,Cuenta sueldo,2025-04-12,9047.73,App
+394,661,922,Préstamo personal,2025-04-06,3287.45,Presencial
+395,663,155,Cuenta sueldo,2025-05-14,1199.73,Presencial
+396,664,1283,Préstamo personal,2025-06-03,2169.12,Web
+397,666,163,Cuenta sueldo,2025-06-11,952.94,Web
+398,667,961,Tarjeta de crédito,2025-04-27,6904.0,App
+399,670,809,Cuenta sueldo,2025-06-28,2735.37,Web
+400,671,707,Préstamo personal,2025-04-19,4766.32,Presencial
+401,674,1002,Tarjeta de crédito,2025-05-25,5051.36,Presencial
+402,675,826,Tarjeta de crédito,2025-04-11,8005.72,Presencial
+403,676,1295,Tarjeta de crédito,2025-05-15,3834.66,Call center
+404,677,1215,Cuenta sueldo,2025-05-12,2332.44,Presencial
+405,678,1063,Cuenta sueldo,2025-05-24,2007.55,Web
+406,679,1411,Préstamo personal,2025-04-03,4341.56,Web
+407,680,679,Préstamo personal,2025-06-28,6220.93,Presencial
+408,683,559,Tarjeta de crédito,2025-06-16,2060.59,Web
+409,684,386,Tarjeta de crédito,2025-04-09,8952.77,Call center
+410,686,953,Cuenta sueldo,2025-05-27,1316.56,Presencial
+411,687,221,Tarjeta de crédito,2025-05-18,8378.68,App
+412,688,264,Tarjeta de crédito,2025-04-22,1975.0,Call center
+413,689,646,Cuenta sueldo,2025-04-06,4269.51,Web
+414,690,669,Préstamo personal,2025-06-08,4353.9,Call center
+415,691,140,Préstamo personal,2025-05-12,4842.61,Web
+416,692,811,Tarjeta de crédito,2025-05-29,6854.03,Web
+417,693,1428,Cuenta sueldo,2025-05-03,6744.87,Call center
+418,694,15,Cuenta sueldo,2025-05-16,5854.19,Web
+419,696,534,Cuenta sueldo,2025-04-12,2309.17,Call center
+420,699,314,Tarjeta de crédito,2025-04-07,7024.76,Presencial
+421,702,587,Préstamo personal,2025-04-12,7348.58,Call center
+422,703,1488,Tarjeta de crédito,2025-05-28,9159.83,Presencial
+423,704,178,Cuenta sueldo,2025-06-13,9829.98,Presencial
+424,705,1394,Tarjeta de crédito,2025-05-12,5244.99,App
+425,707,522,Cuenta sueldo,2025-04-12,6485.44,Call center
+426,708,667,Préstamo personal,2025-04-27,5385.89,App
+427,712,927,Cuenta sueldo,2025-04-05,1239.24,Web
+428,713,86,Tarjeta de crédito,2025-06-24,6567.77,Presencial
+429,714,201,Préstamo personal,2025-04-22,5533.77,Presencial
+430,716,932,Cuenta sueldo,2025-04-25,9039.39,Web
+431,717,1257,Tarjeta de crédito,2025-05-12,4700.82,Web
+432,718,1037,Préstamo personal,2025-04-20,759.7,Web

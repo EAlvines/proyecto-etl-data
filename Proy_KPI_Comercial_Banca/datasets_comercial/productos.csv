@@ -1,0 +1,4 @@
+producto_id,tipo_producto,nombre_producto,categoria_producto
+1,Cuenta,Cuenta sueldo,Ahorro
+2,Tarjeta,Tarjeta de crédito,Consumo
+3,Préstamo,Préstamo personal,Crédito

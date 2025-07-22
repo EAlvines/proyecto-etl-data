@@ -1,0 +1,664 @@
+lead_id,fecha_contacto,canal_origen,producto_interesado,ejecutivo_asignado_id,estado_lead
+1,2025-06-25,Web,Tarjeta de crédito,9,Convertido
+2,2025-04-28,Web,Cuenta sueldo,10,Convertido
+3,2025-05-04,Web,Tarjeta de crédito,16,Convertido
+4,2025-05-03,Web,Cuenta sueldo,8,Perdido
+5,2025-06-24,Presencial,Tarjeta de crédito,16,En gestión
+6,2025-04-10,App,Cuenta sueldo,12,Convertido
+7,2025-05-04,Web,Préstamo personal,9,Convertido
+8,2025-06-09,Web,Préstamo personal,9,En gestión
+9,2025-05-20,Presencial,Tarjeta de crédito,5,Nuevo
+10,2025-04-04,Call center,Préstamo personal,20,Convertido
+11,2025-06-23,Presencial,Préstamo personal,11,En gestión
+12,2025-05-10,App,Cuenta sueldo,5,Convertido
+13,2025-04-29,App,Tarjeta de crédito,5,Convertido
+14,2025-05-26,Web,Cuenta sueldo,11,Convertido
+15,2025-06-03,Presencial,Tarjeta de crédito,14,En gestión
+16,2025-04-23,Presencial,Cuenta sueldo,7,Nuevo
+17,2025-04-07,App,Cuenta sueldo,20,Convertido
+18,2025-06-10,Web,Tarjeta de crédito,3,Convertido
+19,2025-05-22,Presencial,Cuenta sueldo,13,En gestión
+20,2025-05-04,App,Cuenta sueldo,7,En gestión
+21,2025-04-17,Call center,Cuenta sueldo,9,Perdido
+22,2025-05-20,App,Préstamo personal,7,Convertido
+23,2025-05-31,Call center,Préstamo personal,16,Convertido
+24,2025-05-25,Call center,Tarjeta de crédito,2,Convertido
+25,2025-06-09,Call center,Préstamo personal,19,Convertido
+26,2025-04-14,Call center,Tarjeta de crédito,2,Convertido
+27,2025-04-15,Web,Cuenta sueldo,10,En gestión
+28,2025-05-23,Presencial,Tarjeta de crédito,15,Nuevo
+29,2025-04-19,Presencial,Préstamo personal,2,Convertido
+30,2025-06-05,Call center,Cuenta sueldo,17,Nuevo
+31,2025-04-22,App,Tarjeta de crédito,14,En gestión
+32,2025-06-25,Web,Cuenta sueldo,15,Convertido
+33,2025-04-19,Presencial,Préstamo personal,6,Convertido
+34,2025-06-22,Call center,Préstamo personal,12,Nuevo
+35,2025-04-29,Call center,Préstamo personal,17,Convertido
+36,2025-04-09,Web,Cuenta sueldo,11,Convertido
+37,2025-06-05,Web,Tarjeta de crédito,10,En gestión
+38,2025-06-06,Call center,Tarjeta de crédito,6,Nuevo
+39,2025-05-27,App,Cuenta sueldo,1,Convertido
+40,2025-04-05,Web,Préstamo personal,16,En gestión
+41,2025-05-11,Call center,Tarjeta de crédito,14,En gestión
+42,2025-05-22,Web,Cuenta sueldo,18,En gestión
+43,2025-06-02,App,Cuenta sueldo,6,Nuevo
+44,2025-06-05,Presencial,Cuenta sueldo,5,Convertido
+45,2025-06-19,Web,Cuenta sueldo,4,En gestión
+46,2025-04-01,App,Cuenta sueldo,10,Convertido
+47,2025-06-23,Call center,Préstamo personal,19,En gestión
+48,2025-06-24,Web,Cuenta sueldo,10,En gestión
+49,2025-04-27,Call center,Cuenta sueldo,14,Convertido
+50,2025-04-26,Web,Préstamo personal,9,En gestión
+51,2025-06-04,Call center,Préstamo personal,7,Convertido
+52,2025-06-02,Web,Tarjeta de crédito,20,Perdido
+53,2025-05-26,Presencial,Tarjeta de crédito,20,Convertido
+54,2025-04-04,App,Préstamo personal,19,En gestión
+55,2025-06-05,Call center,Tarjeta de crédito,6,Convertido
+56,2025-05-19,Web,Tarjeta de crédito,4,Convertido
+57,2025-04-14,Presencial,Tarjeta de crédito,18,Convertido
+58,2025-06-02,Web,Tarjeta de crédito,10,Convertido
+59,2025-05-30,Call center,Préstamo personal,19,Convertido
+60,2025-06-10,Presencial,Tarjeta de crédito,16,Perdido
+61,2025-06-28,Web,Préstamo personal,5,En gestión
+62,2025-05-23,Call center,Préstamo personal,11,En gestión
+63,2025-06-20,Call center,Préstamo personal,2,Convertido
+64,2025-04-28,Web,Cuenta sueldo,19,Convertido
+65,2025-06-01,App,Tarjeta de crédito,1,En gestión
+66,2025-04-28,Call center,Préstamo personal,18,Convertido
+67,2025-05-31,Presencial,Préstamo personal,11,Convertido
+68,2025-04-02,Presencial,Cuenta sueldo,17,En gestión
+69,2025-06-14,Web,Tarjeta de crédito,2,Convertido
+70,2025-04-30,Web,Tarjeta de crédito,17,Nuevo
+71,2025-04-28,Presencial,Tarjeta de crédito,17,En gestión
+72,2025-04-17,Presencial,Cuenta sueldo,4,Convertido
+73,2025-04-25,App,Cuenta sueldo,2,En gestión
+74,2025-06-01,Web,Cuenta sueldo,10,Perdido
+75,2025-05-14,Web,Tarjeta de crédito,15,Convertido
+76,2025-05-14,Presencial,Cuenta sueldo,19,Convertido
+77,2025-05-03,Presencial,Préstamo personal,11,Convertido
+78,2025-06-01,Web,Préstamo personal,18,Convertido
+79,2025-05-20,Presencial,Préstamo personal,8,Nuevo
+80,2025-06-01,Presencial,Préstamo personal,11,Convertido
+81,2025-06-14,Web,Cuenta sueldo,13,Nuevo
+82,2025-04-05,Call center,Tarjeta de crédito,6,Convertido
+83,2025-06-28,Call center,Préstamo personal,12,En gestión
+84,2025-06-02,App,Préstamo personal,18,Nuevo
+85,2025-04-02,Call center,Préstamo personal,5,Nuevo
+86,2025-05-16,Call center,Cuenta sueldo,15,En gestión
+87,2025-06-24,Call center,Tarjeta de crédito,8,Perdido
+88,2025-06-24,App,Préstamo personal,9,Perdido
+89,2025-04-02,Call center,Cuenta sueldo,11,Convertido
+90,2025-06-06,Web,Cuenta sueldo,16,Nuevo
+91,2025-05-09,Call center,Tarjeta de crédito,6,En gestión
+92,2025-04-04,Presencial,Préstamo personal,19,Nuevo
+93,2025-05-27,Web,Tarjeta de crédito,4,En gestión
+94,2025-06-21,Web,Tarjeta de crédito,18,En gestión
+95,2025-05-20,Call center,Cuenta sueldo,20,En gestión
+96,2025-04-26,App,Tarjeta de crédito,13,Nuevo
+97,2025-04-29,App,Préstamo personal,19,En gestión
+98,2025-05-30,Call center,Préstamo personal,11,Convertido
+99,2025-04-28,Call center,Cuenta sueldo,19,Convertido
+100,2025-04-28,Call center,Cuenta sueldo,20,Nuevo
+101,2025-04-04,Call center,Tarjeta de crédito,16,Convertido
+102,2025-05-30,App,Préstamo personal,1,Convertido
+103,2025-06-05,Call center,Cuenta sueldo,7,Convertido
+104,2025-05-23,Call center,Préstamo personal,12,Perdido
+105,2025-05-11,Web,Préstamo personal,17,En gestión
+106,2025-06-29,App,Tarjeta de crédito,2,En gestión
+107,2025-06-07,Web,Cuenta sueldo,18,Convertido
+108,2025-06-09,Call center,Préstamo personal,11,Convertido
+109,2025-04-14,Call center,Cuenta sueldo,7,Convertido
+110,2025-06-10,Call center,Cuenta sueldo,10,Perdido
+111,2025-05-06,App,Cuenta sueldo,1,Nuevo
+112,2025-06-22,Web,Cuenta sueldo,16,Convertido
+113,2025-04-23,App,Préstamo personal,14,Convertido
+114,2025-05-31,Call center,Préstamo personal,6,En gestión
+115,2025-04-25,Call center,Préstamo personal,15,En gestión
+116,2025-04-19,App,Cuenta sueldo,14,Convertido
+117,2025-04-11,Presencial,Tarjeta de crédito,18,Convertido
+118,2025-04-24,Call center,Préstamo personal,12,Nuevo
+119,2025-06-22,Call center,Préstamo personal,3,Nuevo
+120,2025-06-27,Presencial,Tarjeta de crédito,17,Nuevo
+121,2025-04-27,Web,Cuenta sueldo,16,Convertido
+122,2025-06-05,Presencial,Préstamo personal,2,Perdido
+123,2025-05-10,Web,Tarjeta de crédito,15,Convertido
+124,2025-06-25,Presencial,Tarjeta de crédito,6,Nuevo
+125,2025-06-19,Presencial,Préstamo personal,19,En gestión
+126,2025-06-20,Call center,Préstamo personal,6,Convertido
+127,2025-04-15,Call center,Cuenta sueldo,5,Convertido
+128,2025-04-21,App,Préstamo personal,9,En gestión
+129,2025-05-22,Presencial,Cuenta sueldo,4,Convertido
+130,2025-05-30,Call center,Tarjeta de crédito,6,En gestión
+131,2025-06-06,App,Tarjeta de crédito,6,Convertido
+132,2025-05-29,Web,Cuenta sueldo,20,Perdido
+133,2025-05-07,App,Tarjeta de crédito,14,Convertido
+134,2025-06-23,Presencial,Cuenta sueldo,9,Convertido
+135,2025-05-17,Call center,Tarjeta de crédito,10,En gestión
+136,2025-04-22,App,Tarjeta de crédito,13,En gestión
+137,2025-05-17,App,Préstamo personal,14,Nuevo
+138,2025-04-13,Call center,Tarjeta de crédito,11,Perdido
+139,2025-05-15,Web,Cuenta sueldo,18,Convertido
+140,2025-06-07,Presencial,Tarjeta de crédito,9,En gestión
+141,2025-05-17,Web,Tarjeta de crédito,19,En gestión
+142,2025-06-22,App,Préstamo personal,19,Convertido
+143,2025-05-08,Web,Préstamo personal,1,Convertido
+144,2025-05-18,Web,Préstamo personal,15,En gestión
+145,2025-04-12,Presencial,Tarjeta de crédito,7,Nuevo
+146,2025-04-02,Web,Cuenta sueldo,20,Convertido
+147,2025-05-23,Web,Préstamo personal,4,Nuevo
+148,2025-06-28,App,Tarjeta de crédito,19,Convertido
+149,2025-06-15,App,Tarjeta de crédito,10,En gestión
+150,2025-04-20,Web,Préstamo personal,15,Perdido
+151,2025-04-19,Presencial,Tarjeta de crédito,11,En gestión
+152,2025-06-03,Web,Tarjeta de crédito,2,En gestión
+153,2025-06-04,Presencial,Cuenta sueldo,9,Perdido
+154,2025-06-28,Presencial,Cuenta sueldo,15,Nuevo
+155,2025-05-22,App,Préstamo personal,13,Nuevo
+156,2025-06-05,Call center,Cuenta sueldo,5,Convertido
+157,2025-04-21,Presencial,Cuenta sueldo,2,Nuevo
+158,2025-05-02,Presencial,Tarjeta de crédito,1,Convertido
+159,2025-04-18,Web,Préstamo personal,13,En gestión
+160,2025-04-01,Presencial,Tarjeta de crédito,19,Nuevo
+161,2025-06-07,Call center,Tarjeta de crédito,14,En gestión
+162,2025-06-24,Web,Préstamo personal,8,Nuevo
+163,2025-04-16,Call center,Cuenta sueldo,19,Convertido
+164,2025-04-27,Presencial,Tarjeta de crédito,2,Convertido
+165,2025-06-18,Presencial,Cuenta sueldo,15,Convertido
+166,2025-05-16,Call center,Préstamo personal,7,En gestión
+167,2025-04-17,Call center,Cuenta sueldo,12,En gestión
+168,2025-06-03,Call center,Préstamo personal,7,Nuevo
+169,2025-05-28,App,Cuenta sueldo,19,En gestión
+170,2025-06-04,Call center,Cuenta sueldo,18,Convertido
+171,2025-05-24,Web,Cuenta sueldo,11,Nuevo
+172,2025-05-17,Web,Tarjeta de crédito,4,En gestión
+173,2025-05-20,Call center,Préstamo personal,18,Nuevo
+174,2025-05-25,App,Cuenta sueldo,2,Convertido
+175,2025-05-08,App,Cuenta sueldo,6,Convertido
+176,2025-06-25,Web,Tarjeta de crédito,20,Nuevo
+177,2025-06-23,Web,Cuenta sueldo,4,En gestión
+178,2025-05-13,App,Cuenta sueldo,7,En gestión
+179,2025-05-19,Call center,Tarjeta de crédito,4,Perdido
+180,2025-06-15,App,Tarjeta de crédito,7,Convertido
+181,2025-04-04,Call center,Cuenta sueldo,12,Convertido
+182,2025-04-14,Call center,Cuenta sueldo,1,Convertido
+183,2025-06-04,Web,Préstamo personal,19,Convertido
+184,2025-06-06,App,Cuenta sueldo,9,Convertido
+185,2025-05-31,App,Préstamo personal,16,Convertido
+186,2025-05-25,Presencial,Tarjeta de crédito,14,Nuevo
+187,2025-05-21,App,Cuenta sueldo,4,Perdido
+188,2025-05-26,Web,Préstamo personal,12,Convertido
+189,2025-04-30,Call center,Préstamo personal,7,En gestión
+190,2025-06-05,App,Cuenta sueldo,5,Convertido
+191,2025-05-25,App,Cuenta sueldo,2,Nuevo
+192,2025-06-29,Presencial,Tarjeta de crédito,7,En gestión
+193,2025-06-14,Presencial,Préstamo personal,15,Nuevo
+194,2025-04-26,Web,Préstamo personal,6,Nuevo
+195,2025-05-18,Web,Tarjeta de crédito,17,Nuevo
+196,2025-05-14,App,Préstamo personal,15,Convertido
+197,2025-05-22,App,Cuenta sueldo,11,En gestión
+198,2025-04-26,App,Préstamo personal,14,Convertido
+199,2025-06-25,Web,Tarjeta de crédito,5,En gestión
+200,2025-05-12,Call center,Cuenta sueldo,13,En gestión
+201,2025-05-15,Call center,Préstamo personal,7,Convertido
+202,2025-04-30,App,Cuenta sueldo,19,Nuevo
+203,2025-05-10,App,Cuenta sueldo,15,En gestión
+204,2025-04-21,App,Tarjeta de crédito,8,Convertido
+205,2025-06-17,App,Préstamo personal,18,Convertido
+206,2025-04-17,Call center,Cuenta sueldo,19,En gestión
+207,2025-06-03,Call center,Tarjeta de crédito,1,Convertido
+208,2025-05-31,App,Préstamo personal,5,Perdido
+209,2025-04-23,Web,Tarjeta de crédito,2,Nuevo
+210,2025-06-16,Call center,Préstamo personal,17,Nuevo
+211,2025-04-17,Call center,Tarjeta de crédito,4,En gestión
+212,2025-05-12,App,Cuenta sueldo,18,Convertido
+213,2025-04-28,Presencial,Cuenta sueldo,3,Nuevo
+214,2025-05-26,Presencial,Cuenta sueldo,15,Convertido
+215,2025-05-28,App,Préstamo personal,13,Nuevo
+216,2025-06-04,Presencial,Préstamo personal,15,Convertido
+217,2025-06-11,Call center,Préstamo personal,11,Convertido
+218,2025-06-15,App,Préstamo personal,3,Convertido
+219,2025-04-29,Presencial,Cuenta sueldo,4,En gestión
+220,2025-06-26,Call center,Préstamo personal,2,En gestión
+221,2025-04-17,App,Préstamo personal,18,Convertido
+222,2025-06-12,App,Préstamo personal,4,Convertido
+223,2025-04-14,App,Tarjeta de crédito,12,Convertido
+224,2025-06-26,Presencial,Tarjeta de crédito,16,Convertido
+225,2025-06-28,Presencial,Tarjeta de crédito,20,En gestión
+226,2025-04-07,Web,Cuenta sueldo,15,Nuevo
+227,2025-06-18,Call center,Cuenta sueldo,10,Perdido
+228,2025-06-16,Web,Cuenta sueldo,6,En gestión
+229,2025-06-11,App,Tarjeta de crédito,5,Convertido
+230,2025-04-27,App,Tarjeta de crédito,12,En gestión
+231,2025-05-01,Web,Tarjeta de crédito,7,Nuevo
+232,2025-04-06,App,Préstamo personal,11,En gestión
+233,2025-06-05,Presencial,Préstamo personal,11,En gestión
+234,2025-05-29,Call center,Tarjeta de crédito,10,Convertido
+235,2025-04-06,Presencial,Cuenta sueldo,16,En gestión
+236,2025-06-27,Presencial,Cuenta sueldo,5,En gestión
+237,2025-06-17,Call center,Cuenta sueldo,20,Perdido
+238,2025-06-16,Presencial,Cuenta sueldo,6,Convertido
+239,2025-05-06,Web,Cuenta sueldo,11,Convertido
+240,2025-05-03,Web,Préstamo personal,11,Perdido
+241,2025-04-03,App,Tarjeta de crédito,15,Convertido
+242,2025-04-12,Web,Tarjeta de crédito,16,Convertido
+243,2025-05-19,App,Cuenta sueldo,18,Perdido
+244,2025-06-03,Presencial,Préstamo personal,10,En gestión
+245,2025-05-30,Presencial,Préstamo personal,5,Convertido
+246,2025-04-16,Call center,Cuenta sueldo,5,Convertido
+247,2025-06-05,App,Tarjeta de crédito,12,Nuevo
+248,2025-04-04,Web,Préstamo personal,7,Convertido
+249,2025-04-10,Web,Préstamo personal,15,Convertido
+250,2025-04-27,Call center,Cuenta sueldo,16,En gestión
+251,2025-05-14,Web,Préstamo personal,12,En gestión
+252,2025-06-25,Call center,Tarjeta de crédito,13,En gestión
+253,2025-04-19,Presencial,Tarjeta de crédito,12,En gestión
+254,2025-04-28,Call center,Préstamo personal,3,En gestión
+255,2025-06-01,Call center,Préstamo personal,14,Convertido
+256,2025-06-03,Call center,Cuenta sueldo,19,Convertido
+257,2025-04-16,Presencial,Cuenta sueldo,19,Convertido
+258,2025-04-15,Presencial,Tarjeta de crédito,6,Convertido
+259,2025-05-26,Call center,Tarjeta de crédito,18,En gestión
+260,2025-06-18,Presencial,Préstamo personal,10,En gestión
+261,2025-06-25,Call center,Cuenta sueldo,1,Convertido
+262,2025-05-23,Call center,Cuenta sueldo,10,En gestión
+263,2025-06-08,Call center,Préstamo personal,8,Nuevo
+264,2025-06-23,Presencial,Tarjeta de crédito,3,Convertido
+265,2025-04-09,Call center,Préstamo personal,4,En gestión
+266,2025-04-15,Web,Tarjeta de crédito,6,Convertido
+267,2025-05-12,App,Tarjeta de crédito,6,Nuevo
+268,2025-04-20,Presencial,Tarjeta de crédito,12,Nuevo
+269,2025-04-30,Presencial,Préstamo personal,3,Convertido
+270,2025-04-18,App,Préstamo personal,11,Convertido
+271,2025-04-18,Presencial,Tarjeta de crédito,12,Nuevo
+272,2025-05-29,Presencial,Cuenta sueldo,1,Nuevo
+273,2025-05-09,Presencial,Tarjeta de crédito,16,En gestión
+274,2025-04-02,App,Cuenta sueldo,7,Nuevo
+275,2025-05-31,App,Cuenta sueldo,18,Convertido
+276,2025-06-19,Web,Tarjeta de crédito,15,Perdido
+277,2025-05-04,Web,Cuenta sueldo,1,En gestión
+278,2025-04-30,Presencial,Préstamo personal,12,Nuevo
+279,2025-05-27,Call center,Préstamo personal,17,Convertido
+280,2025-06-18,Web,Cuenta sueldo,5,Convertido
+281,2025-04-18,App,Cuenta sueldo,5,Perdido
+282,2025-04-17,Call center,Préstamo personal,4,Nuevo
+283,2025-06-03,Call center,Tarjeta de crédito,2,Nuevo
+284,2025-04-08,Web,Préstamo personal,17,Convertido
+285,2025-06-25,Web,Cuenta sueldo,4,Perdido
+286,2025-06-25,App,Préstamo personal,7,Nuevo
+287,2025-04-19,Presencial,Cuenta sueldo,3,Nuevo
+288,2025-06-17,Presencial,Préstamo personal,12,En gestión
+289,2025-04-11,App,Préstamo personal,19,Nuevo
+290,2025-04-04,Web,Préstamo personal,7,Convertido
+291,2025-04-16,Web,Préstamo personal,4,Perdido
+292,2025-04-11,Call center,Tarjeta de crédito,19,Nuevo
+293,2025-05-28,Web,Cuenta sueldo,12,Perdido
+294,2025-06-29,Call center,Cuenta sueldo,17,En gestión
+295,2025-05-03,Web,Tarjeta de crédito,4,En gestión
+296,2025-06-01,App,Tarjeta de crédito,12,Convertido
+297,2025-05-03,Call center,Tarjeta de crédito,15,Convertido
+298,2025-06-17,Call center,Tarjeta de crédito,14,Nuevo
+299,2025-05-27,Web,Tarjeta de crédito,12,Nuevo
+300,2025-06-23,Call center,Préstamo personal,4,En gestión
+301,2025-06-27,Web,Cuenta sueldo,5,En gestión
+302,2025-05-12,Web,Préstamo personal,6,Nuevo
+303,2025-05-06,App,Tarjeta de crédito,7,Convertido
+304,2025-06-29,Call center,Préstamo personal,16,En gestión
+305,2025-06-18,Presencial,Préstamo personal,13,En gestión
+306,2025-05-13,Call center,Tarjeta de crédito,17,En gestión
+307,2025-06-09,Call center,Cuenta sueldo,4,En gestión
+308,2025-04-26,Call center,Cuenta sueldo,5,Nuevo
+309,2025-04-24,Web,Cuenta sueldo,16,Convertido
+310,2025-06-03,Presencial,Cuenta sueldo,10,Convertido
+311,2025-05-14,Call center,Tarjeta de crédito,7,En gestión
+312,2025-05-30,Call center,Tarjeta de crédito,17,En gestión
+313,2025-05-13,Presencial,Préstamo personal,18,Nuevo
+314,2025-05-04,Web,Tarjeta de crédito,4,En gestión
+315,2025-05-09,Presencial,Tarjeta de crédito,15,En gestión
+316,2025-05-01,Web,Cuenta sueldo,18,Convertido
+317,2025-04-26,App,Tarjeta de crédito,13,En gestión
+318,2025-04-03,Web,Préstamo personal,16,Convertido
+319,2025-05-23,App,Préstamo personal,2,En gestión
+320,2025-05-25,Call center,Préstamo personal,13,Convertido
+321,2025-05-02,Web,Cuenta sueldo,12,En gestión
+322,2025-05-20,Web,Préstamo personal,11,En gestión
+323,2025-05-16,Call center,Tarjeta de crédito,12,En gestión
+324,2025-06-12,Web,Préstamo personal,8,En gestión
+325,2025-05-24,Presencial,Préstamo personal,3,Perdido
+326,2025-05-06,Web,Tarjeta de crédito,4,En gestión
+327,2025-05-27,Web,Préstamo personal,11,Nuevo
+328,2025-05-25,Call center,Préstamo personal,17,Perdido
+329,2025-05-11,Presencial,Cuenta sueldo,16,Convertido
+330,2025-04-06,Call center,Tarjeta de crédito,19,Nuevo
+331,2025-05-03,Call center,Cuenta sueldo,7,En gestión
+332,2025-06-13,Presencial,Cuenta sueldo,20,En gestión
+333,2025-05-23,Call center,Cuenta sueldo,16,Convertido
+334,2025-05-18,App,Tarjeta de crédito,9,Nuevo
+335,2025-04-03,Call center,Cuenta sueldo,20,Convertido
+336,2025-06-28,Web,Préstamo personal,11,En gestión
+337,2025-04-07,Call center,Tarjeta de crédito,7,En gestión
+338,2025-05-11,Web,Préstamo personal,10,Convertido
+339,2025-05-30,Call center,Tarjeta de crédito,20,Convertido
+340,2025-06-04,App,Préstamo personal,16,En gestión
+341,2025-05-27,Call center,Tarjeta de crédito,18,Convertido
+342,2025-06-21,Web,Préstamo personal,7,En gestión
+343,2025-06-27,App,Cuenta sueldo,5,Convertido
+344,2025-04-23,Web,Préstamo personal,7,Convertido
+345,2025-06-11,App,Tarjeta de crédito,8,Nuevo
+346,2025-04-11,App,Cuenta sueldo,8,Convertido
+347,2025-05-03,Web,Cuenta sueldo,6,En gestión
+348,2025-06-27,Web,Tarjeta de crédito,9,Convertido
+349,2025-04-29,Call center,Cuenta sueldo,2,Convertido
+350,2025-05-25,Web,Tarjeta de crédito,12,Convertido
+351,2025-06-04,App,Cuenta sueldo,4,Convertido
+352,2025-06-11,Presencial,Tarjeta de crédito,3,En gestión
+353,2025-05-29,Web,Tarjeta de crédito,11,Convertido
+354,2025-06-23,App,Cuenta sueldo,4,Nuevo
+355,2025-06-19,Presencial,Tarjeta de crédito,14,En gestión
+356,2025-05-29,Web,Tarjeta de crédito,18,En gestión
+357,2025-05-17,Web,Tarjeta de crédito,18,En gestión
+358,2025-04-06,App,Tarjeta de crédito,5,En gestión
+359,2025-06-15,Presencial,Tarjeta de crédito,1,Convertido
+360,2025-05-30,Web,Préstamo personal,8,En gestión
+361,2025-05-29,Call center,Tarjeta de crédito,12,Perdido
+362,2025-05-12,Web,Préstamo personal,8,Convertido
+363,2025-06-08,Presencial,Tarjeta de crédito,3,Perdido
+364,2025-05-14,App,Tarjeta de crédito,7,Convertido
+365,2025-05-29,Presencial,Préstamo personal,14,Convertido
+366,2025-04-17,Call center,Tarjeta de crédito,14,Convertido
+367,2025-05-13,Presencial,Préstamo personal,3,En gestión
+368,2025-04-14,Presencial,Tarjeta de crédito,1,Convertido
+369,2025-04-06,App,Cuenta sueldo,13,En gestión
+370,2025-04-03,Presencial,Tarjeta de crédito,19,Nuevo
+371,2025-06-04,App,Cuenta sueldo,17,Convertido
+372,2025-05-08,Call center,Tarjeta de crédito,15,En gestión
+373,2025-04-15,App,Tarjeta de crédito,6,Convertido
+374,2025-04-14,App,Cuenta sueldo,14,En gestión
+375,2025-05-03,Call center,Tarjeta de crédito,19,En gestión
+376,2025-05-27,Web,Préstamo personal,20,Convertido
+377,2025-06-17,App,Tarjeta de crédito,6,Nuevo
+378,2025-05-26,Call center,Préstamo personal,9,Nuevo
+379,2025-04-26,Presencial,Cuenta sueldo,19,Nuevo
+380,2025-06-21,Call center,Tarjeta de crédito,16,Nuevo
+381,2025-04-30,App,Cuenta sueldo,9,En gestión
+382,2025-04-24,Call center,Tarjeta de crédito,5,En gestión
+383,2025-05-18,App,Préstamo personal,7,Perdido
+384,2025-06-04,Presencial,Préstamo personal,7,En gestión
+385,2025-06-15,Call center,Cuenta sueldo,1,En gestión
+386,2025-04-14,Presencial,Cuenta sueldo,20,En gestión
+387,2025-05-17,App,Tarjeta de crédito,19,Convertido
+388,2025-06-27,Call center,Préstamo personal,7,Convertido
+389,2025-05-06,Web,Cuenta sueldo,11,Perdido
+390,2025-06-25,Call center,Tarjeta de crédito,20,Perdido
+391,2025-05-04,Web,Cuenta sueldo,9,Convertido
+392,2025-05-12,Web,Préstamo personal,6,En gestión
+393,2025-06-01,Call center,Tarjeta de crédito,15,Nuevo
+394,2025-05-05,Presencial,Préstamo personal,17,En gestión
+395,2025-06-24,Presencial,Cuenta sueldo,11,Nuevo
+396,2025-06-07,App,Tarjeta de crédito,9,Convertido
+397,2025-04-26,Presencial,Préstamo personal,9,Convertido
+398,2025-04-16,App,Préstamo personal,15,Nuevo
+399,2025-05-28,App,Cuenta sueldo,8,Nuevo
+400,2025-04-15,Call center,Tarjeta de crédito,6,Convertido
+401,2025-05-05,Presencial,Préstamo personal,18,En gestión
+402,2025-05-24,Call center,Cuenta sueldo,5,Nuevo
+403,2025-06-14,Web,Cuenta sueldo,10,Nuevo
+404,2025-04-08,App,Préstamo personal,17,Convertido
+405,2025-04-17,Web,Préstamo personal,19,Nuevo
+406,2025-06-27,Web,Cuenta sueldo,16,Convertido
+407,2025-05-24,Web,Tarjeta de crédito,12,Convertido
+408,2025-04-02,App,Cuenta sueldo,3,En gestión
+409,2025-06-20,Call center,Tarjeta de crédito,9,Convertido
+410,2025-05-02,Call center,Tarjeta de crédito,19,Nuevo
+411,2025-04-18,Web,Préstamo personal,10,En gestión
+412,2025-04-08,Web,Préstamo personal,3,Convertido
+413,2025-05-23,Call center,Cuenta sueldo,1,Convertido
+414,2025-05-20,Presencial,Préstamo personal,5,Nuevo
+415,2025-04-10,Call center,Tarjeta de crédito,10,Perdido
+416,2025-06-08,App,Tarjeta de crédito,4,Convertido
+417,2025-04-22,Call center,Cuenta sueldo,14,Convertido
+418,2025-06-10,Presencial,Tarjeta de crédito,8,Convertido
+419,2025-06-27,Web,Tarjeta de crédito,15,En gestión
+420,2025-06-04,Call center,Tarjeta de crédito,5,Perdido
+421,2025-04-14,Presencial,Cuenta sueldo,17,En gestión
+422,2025-04-15,Web,Préstamo personal,3,Perdido
+423,2025-05-12,Web,Préstamo personal,14,En gestión
+424,2025-05-26,Call center,Préstamo personal,19,Convertido
+425,2025-05-30,Call center,Cuenta sueldo,6,Convertido
+426,2025-05-19,Presencial,Tarjeta de crédito,19,Convertido
+427,2025-06-05,App,Cuenta sueldo,6,Nuevo
+428,2025-06-20,Presencial,Préstamo personal,4,En gestión
+429,2025-05-26,Web,Cuenta sueldo,13,Nuevo
+430,2025-04-19,App,Préstamo personal,16,En gestión
+431,2025-06-27,Call center,Préstamo personal,20,Convertido
+432,2025-04-04,Call center,Tarjeta de crédito,3,Nuevo
+433,2025-04-19,Web,Cuenta sueldo,4,Convertido
+434,2025-04-20,App,Préstamo personal,8,En gestión
+435,2025-06-06,App,Cuenta sueldo,10,Convertido
+436,2025-05-04,Web,Cuenta sueldo,5,Convertido
+437,2025-04-27,App,Cuenta sueldo,10,Convertido
+438,2025-04-21,Web,Cuenta sueldo,14,Perdido
+439,2025-04-28,Call center,Préstamo personal,19,Convertido
+440,2025-04-12,Call center,Cuenta sueldo,2,Convertido
+441,2025-04-06,Call center,Tarjeta de crédito,4,En gestión
+442,2025-04-21,Presencial,Tarjeta de crédito,14,Nuevo
+443,2025-05-14,Presencial,Préstamo personal,7,En gestión
+444,2025-05-29,Call center,Cuenta sueldo,17,En gestión
+445,2025-05-07,Presencial,Préstamo personal,15,Nuevo
+446,2025-05-13,Presencial,Préstamo personal,13,Perdido
+447,2025-05-06,Presencial,Tarjeta de crédito,6,Convertido
+448,2025-04-03,App,Cuenta sueldo,6,Convertido
+449,2025-06-15,Call center,Tarjeta de crédito,8,En gestión
+450,2025-06-25,Web,Cuenta sueldo,12,Convertido
+451,2025-06-13,Web,Tarjeta de crédito,14,Nuevo
+452,2025-04-01,App,Cuenta sueldo,18,En gestión
+453,2025-05-29,Presencial,Tarjeta de crédito,12,Convertido
+454,2025-05-09,Web,Préstamo personal,2,Perdido
+455,2025-05-27,Call center,Tarjeta de crédito,4,Perdido
+456,2025-06-24,Web,Préstamo personal,2,Convertido
+457,2025-04-20,App,Tarjeta de crédito,6,Convertido
+458,2025-04-20,Web,Cuenta sueldo,12,En gestión
+459,2025-05-03,App,Cuenta sueldo,7,En gestión
+460,2025-05-08,Call center,Cuenta sueldo,8,Convertido
+461,2025-06-20,Presencial,Préstamo personal,14,En gestión
+462,2025-05-06,App,Cuenta sueldo,17,En gestión
+463,2025-06-28,App,Cuenta sueldo,14,En gestión
+464,2025-04-05,Call center,Tarjeta de crédito,17,Convertido
+465,2025-05-18,Web,Cuenta sueldo,11,En gestión
+466,2025-06-13,App,Tarjeta de crédito,2,En gestión
+467,2025-06-10,Web,Préstamo personal,5,Perdido
+468,2025-04-13,Web,Préstamo personal,17,Perdido
+469,2025-05-25,Call center,Tarjeta de crédito,18,Convertido
+470,2025-05-14,Presencial,Préstamo personal,20,Perdido
+471,2025-04-19,Call center,Tarjeta de crédito,7,Convertido
+472,2025-05-27,Call center,Cuenta sueldo,10,Nuevo
+473,2025-05-27,Presencial,Tarjeta de crédito,5,Convertido
+474,2025-05-02,Presencial,Préstamo personal,6,Nuevo
+475,2025-04-20,Presencial,Cuenta sueldo,10,Convertido
+476,2025-05-02,Web,Tarjeta de crédito,9,Convertido
+477,2025-05-12,Call center,Tarjeta de crédito,19,Convertido
+478,2025-06-24,App,Tarjeta de crédito,10,En gestión
+479,2025-06-08,App,Préstamo personal,13,Convertido
+480,2025-05-10,Presencial,Tarjeta de crédito,4,Nuevo
+481,2025-05-20,Call center,Tarjeta de crédito,3,Nuevo
+482,2025-06-07,Call center,Cuenta sueldo,16,En gestión
+483,2025-05-02,Web,Tarjeta de crédito,17,En gestión
+484,2025-04-18,Call center,Tarjeta de crédito,19,En gestión
+485,2025-04-15,Call center,Tarjeta de crédito,16,Convertido
+486,2025-05-17,Call center,Cuenta sueldo,17,Convertido
+487,2025-04-20,Call center,Cuenta sueldo,6,Perdido
+488,2025-05-08,Presencial,Cuenta sueldo,20,Convertido
+489,2025-04-24,Presencial,Cuenta sueldo,17,Nuevo
+490,2025-04-07,Presencial,Tarjeta de crédito,12,En gestión
+491,2025-06-23,Call center,Cuenta sueldo,5,Nuevo
+492,2025-04-01,Call center,Cuenta sueldo,10,Convertido
+493,2025-05-30,Presencial,Cuenta sueldo,2,En gestión
+494,2025-05-04,Presencial,Préstamo personal,15,Perdido
+495,2025-04-04,Call center,Tarjeta de crédito,20,Nuevo
+496,2025-06-20,App,Préstamo personal,15,Convertido
+497,2025-05-29,Call center,Tarjeta de crédito,8,Perdido
+498,2025-06-13,Presencial,Préstamo personal,2,Perdido
+499,2025-05-13,Call center,Préstamo personal,9,Convertido
+500,2025-05-26,Presencial,Préstamo personal,4,Convertido
+501,2025-05-02,Web,Préstamo personal,17,Nuevo
+502,2025-05-25,Call center,Préstamo personal,1,Nuevo
+503,2025-06-21,App,Cuenta sueldo,9,Convertido
+504,2025-04-08,Presencial,Tarjeta de crédito,19,Nuevo
+505,2025-04-13,Web,Tarjeta de crédito,14,Nuevo
+506,2025-05-10,Web,Préstamo personal,11,En gestión
+507,2025-05-23,Web,Cuenta sueldo,4,Convertido
+508,2025-06-03,Call center,Préstamo personal,6,Nuevo
+509,2025-06-10,Presencial,Cuenta sueldo,1,Convertido
+510,2025-05-07,Presencial,Tarjeta de crédito,13,Perdido
+511,2025-06-09,Web,Cuenta sueldo,7,En gestión
+512,2025-06-28,App,Tarjeta de crédito,17,Convertido
+513,2025-05-20,Call center,Cuenta sueldo,16,Nuevo
+514,2025-04-29,App,Cuenta sueldo,9,Convertido
+515,2025-05-06,App,Tarjeta de crédito,19,En gestión
+516,2025-04-13,Web,Préstamo personal,17,En gestión
+517,2025-06-22,App,Tarjeta de crédito,18,Perdido
+518,2025-06-07,App,Préstamo personal,14,Perdido
+519,2025-06-23,Call center,Cuenta sueldo,1,Convertido
+520,2025-05-23,App,Cuenta sueldo,2,Perdido
+521,2025-06-15,Call center,Tarjeta de crédito,20,En gestión
+522,2025-05-16,Call center,Tarjeta de crédito,7,Convertido
+523,2025-04-09,Presencial,Cuenta sueldo,13,Convertido
+524,2025-04-07,Presencial,Tarjeta de crédito,7,Convertido
+525,2025-04-30,Presencial,Préstamo personal,9,Perdido
+526,2025-04-25,Call center,Tarjeta de crédito,8,Convertido
+527,2025-05-03,App,Préstamo personal,1,Convertido
+528,2025-04-18,App,Tarjeta de crédito,18,Convertido
+529,2025-05-22,Web,Préstamo personal,1,Convertido
+530,2025-06-25,Web,Tarjeta de crédito,13,Convertido
+531,2025-04-09,Web,Tarjeta de crédito,12,Perdido
+532,2025-04-24,Call center,Cuenta sueldo,8,Convertido
+533,2025-06-09,Web,Préstamo personal,10,Convertido
+534,2025-04-09,Call center,Préstamo personal,20,En gestión
+535,2025-05-28,App,Préstamo personal,13,Nuevo
+536,2025-04-28,Presencial,Préstamo personal,17,En gestión
+537,2025-06-15,App,Préstamo personal,19,Convertido
+538,2025-06-13,Web,Cuenta sueldo,9,Perdido
+539,2025-05-30,App,Préstamo personal,9,Nuevo
+540,2025-04-20,Web,Préstamo personal,18,Convertido
+541,2025-04-01,Web,Tarjeta de crédito,14,Convertido
+542,2025-04-16,Presencial,Préstamo personal,2,Convertido
+543,2025-06-29,Presencial,Cuenta sueldo,13,Nuevo
+544,2025-06-16,Web,Préstamo personal,1,Perdido
+545,2025-06-13,App,Préstamo personal,14,Perdido
+546,2025-04-09,App,Cuenta sueldo,6,En gestión
+547,2025-06-14,Web,Préstamo personal,4,Nuevo
+548,2025-04-09,Call center,Cuenta sueldo,19,Convertido
+549,2025-06-06,App,Cuenta sueldo,16,En gestión
+550,2025-05-12,Presencial,Cuenta sueldo,11,Convertido
+551,2025-06-24,Web,Préstamo personal,15,Convertido
+552,2025-05-11,Web,Tarjeta de crédito,11,Convertido
+553,2025-05-09,Call center,Cuenta sueldo,10,Convertido
+554,2025-04-15,Presencial,Tarjeta de crédito,13,Nuevo
+555,2025-05-02,Call center,Cuenta sueldo,20,Convertido
+556,2025-04-20,Web,Tarjeta de crédito,1,En gestión
+557,2025-05-26,Presencial,Préstamo personal,7,Nuevo
+558,2025-04-07,Web,Préstamo personal,3,Convertido
+559,2025-04-30,App,Préstamo personal,17,En gestión
+560,2025-05-20,Call center,Tarjeta de crédito,20,En gestión
+561,2025-04-11,App,Cuenta sueldo,2,Nuevo
+562,2025-04-24,Presencial,Préstamo personal,14,Convertido
+563,2025-06-08,App,Cuenta sueldo,16,En gestión
+564,2025-06-08,Presencial,Tarjeta de crédito,12,Perdido
+565,2025-04-26,App,Cuenta sueldo,8,Convertido
+566,2025-05-15,Call center,Tarjeta de crédito,7,Perdido
+567,2025-05-21,App,Cuenta sueldo,11,Nuevo
+568,2025-05-29,Call center,Préstamo personal,15,Convertido
+569,2025-04-17,Call center,Tarjeta de crédito,6,Nuevo
+570,2025-06-22,Web,Tarjeta de crédito,8,Perdido
+571,2025-06-06,App,Préstamo personal,8,En gestión
+572,2025-04-30,App,Cuenta sueldo,16,Convertido
+573,2025-04-22,Call center,Cuenta sueldo,13,Nuevo
+574,2025-06-16,Web,Tarjeta de crédito,1,Nuevo
+575,2025-05-30,Web,Préstamo personal,4,Nuevo
+576,2025-05-07,Call center,Cuenta sueldo,19,Perdido
+577,2025-04-20,Presencial,Cuenta sueldo,1,Nuevo
+578,2025-04-15,Presencial,Cuenta sueldo,8,Convertido
+579,2025-06-23,App,Cuenta sueldo,6,Convertido
+580,2025-04-10,App,Tarjeta de crédito,4,En gestión
+581,2025-06-20,App,Tarjeta de crédito,15,En gestión
+582,2025-04-13,Presencial,Préstamo personal,6,Perdido
+583,2025-05-07,Call center,Préstamo personal,3,Nuevo
+584,2025-05-18,App,Cuenta sueldo,7,Convertido
+585,2025-06-04,App,Cuenta sueldo,20,Convertido
+586,2025-04-12,App,Tarjeta de crédito,8,Nuevo
+587,2025-05-21,Presencial,Cuenta sueldo,17,Perdido
+588,2025-06-02,Call center,Cuenta sueldo,3,Convertido
+589,2025-06-04,Presencial,Tarjeta de crédito,17,En gestión
+590,2025-06-08,Presencial,Préstamo personal,12,Convertido
+591,2025-05-29,Call center,Préstamo personal,19,Convertido
+592,2025-05-08,Call center,Cuenta sueldo,10,En gestión
+593,2025-04-26,Call center,Préstamo personal,6,Perdido
+594,2025-05-25,Presencial,Tarjeta de crédito,18,Nuevo
+595,2025-04-14,Web,Tarjeta de crédito,15,Convertido
+596,2025-05-02,Call center,Tarjeta de crédito,15,En gestión
+597,2025-06-18,Presencial,Tarjeta de crédito,11,En gestión
+598,2025-06-25,Web,Cuenta sueldo,15,En gestión
+599,2025-05-19,Web,Tarjeta de crédito,3,En gestión
+600,2025-06-18,Web,Tarjeta de crédito,8,Nuevo
+601,2025-04-21,Web,Tarjeta de crédito,2,Convertido
+602,2025-05-21,Presencial,Cuenta sueldo,20,Perdido
+603,2025-06-03,Presencial,Cuenta sueldo,10,En gestión
+604,2025-05-27,Presencial,Tarjeta de crédito,13,Convertido
+605,2025-04-26,App,Tarjeta de crédito,8,En gestión
+606,2025-05-13,App,Tarjeta de crédito,8,Convertido
+607,2025-06-13,Presencial,Cuenta sueldo,11,Convertido
+608,2025-05-23,Call center,Préstamo personal,1,En gestión
+609,2025-05-24,App,Tarjeta de crédito,1,En gestión
+610,2025-05-13,Presencial,Tarjeta de crédito,8,En gestión
+611,2025-04-04,Call center,Préstamo personal,18,En gestión
+612,2025-06-27,Web,Préstamo personal,2,Perdido
+613,2025-06-21,App,Tarjeta de crédito,19,Convertido
+614,2025-05-23,App,Tarjeta de crédito,3,Convertido
+615,2025-06-18,Call center,Préstamo personal,10,Nuevo
+616,2025-05-11,Web,Préstamo personal,18,Nuevo
+617,2025-04-03,Call center,Cuenta sueldo,6,Nuevo
+618,2025-06-12,Call center,Tarjeta de crédito,7,En gestión
+619,2025-05-25,Web,Tarjeta de crédito,2,En gestión
+620,2025-06-06,Web,Cuenta sueldo,11,Convertido
+621,2025-04-22,Call center,Tarjeta de crédito,3,En gestión
+622,2025-05-23,App,Cuenta sueldo,7,En gestión
+623,2025-06-27,Call center,Cuenta sueldo,20,Convertido
+624,2025-05-19,Presencial,Cuenta sueldo,1,Perdido
+625,2025-05-12,Call center,Cuenta sueldo,13,Convertido
+626,2025-06-27,Call center,Tarjeta de crédito,19,Nuevo
+627,2025-04-13,Web,Tarjeta de crédito,15,En gestión
+628,2025-05-22,Presencial,Tarjeta de crédito,20,Convertido
+629,2025-04-11,App,Préstamo personal,14,En gestión
+630,2025-05-20,App,Préstamo personal,19,Nuevo
+631,2025-05-29,Web,Cuenta sueldo,6,En gestión
+632,2025-04-19,Presencial,Préstamo personal,3,Convertido
+633,2025-04-09,Web,Tarjeta de crédito,3,Convertido
+634,2025-04-20,Presencial,Cuenta sueldo,17,Nuevo
+635,2025-05-21,Web,Cuenta sueldo,15,En gestión
+636,2025-05-04,Call center,Cuenta sueldo,13,Nuevo
+637,2025-06-16,Presencial,Cuenta sueldo,5,En gestión
+638,2025-05-12,Call center,Tarjeta de crédito,15,Nuevo
+639,2025-06-23,App,Préstamo personal,15,Nuevo
+640,2025-06-08,Presencial,Cuenta sueldo,6,Convertido
+641,2025-06-26,Call center,Cuenta sueldo,3,Convertido
+642,2025-04-25,Call center,Tarjeta de crédito,6,En gestión
+643,2025-04-11,Web,Préstamo personal,18,En gestión
+644,2025-06-29,Web,Préstamo personal,17,Convertido
+645,2025-05-14,Call center,Cuenta sueldo,20,Nuevo
+646,2025-05-16,Call center,Cuenta sueldo,8,En gestión
+647,2025-06-26,App,Cuenta sueldo,3,Nuevo
+648,2025-05-23,Web,Cuenta sueldo,11,Convertido
+649,2025-04-04,App,Préstamo personal,6,Nuevo
+650,2025-05-16,Web,Tarjeta de crédito,11,Convertido
+651,2025-06-06,Call center,Tarjeta de crédito,4,En gestión
+652,2025-04-10,Web,Tarjeta de crédito,11,Nuevo
+653,2025-04-27,Call center,Préstamo personal,11,Nuevo
+654,2025-06-03,App,Tarjeta de crédito,8,Nuevo
+655,2025-04-18,Presencial,Préstamo personal,20,En gestión
+656,2025-04-11,Web,Cuenta sueldo,14,En gestión
+657,2025-06-25,Call center,Cuenta sueldo,18,Convertido
+658,2025-04-29,Presencial,Cuenta sueldo,20,En gestión
+659,2025-06-24,Call center,Préstamo personal,5,En gestión
+660,2025-04-27,Presencial,Préstamo personal,16,Nuevo
+661,2025-06-20,Web,Préstamo personal,19,En gestión
+662,2025-06-03,App,Préstamo personal,19,Convertido
+663,2025-05-05,Web,Tarjeta de crédito,8,Convertido
