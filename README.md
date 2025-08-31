@@ -1,16 +1,19 @@
-# 📊 Proyectos SQL + Power BI
+# 📊 Proyecto ETL (SQL server/PostgreSQL/Python) + Power BI
 
-En esta sección encontrarás casos empresariales simulados en los que aplico mis habilidades en SQL Server y Power BI para transformar datos en decisiones estratégicas.  
+En esta sección encontrarás casos empresariales simulados en los que aplico mis habilidades para realizar los procesos ETL usando diversas herramientas como SQL Server, PostgreSQL y Python para luego cargar a Power BI y continuar con el modelado de los datos y su posterior visualización para la toma de decisiones estratégicas.  
 
 Cada proyecto incluye:
-- Modelado de datos y limpieza con SQL
+- Modelado de datos y limpieza con SQL y Power BI
 - Visualización de KPIs en Power BI
-- Dataset de ejemplo para practicar
+- Dataset simulados
 
-> 🔧 Herramientas: SQL Server, Power BI, Excel, Python
-
-## 📁 Lista de Proyectos:
-- Dashboard de KPIs SLA – 1Q 2025
-- Dashboard de Productividad: Analisis Operativo.
-- Análisis de Rotación de Personal
+## 🛠️ Tecnologías usadas
+- SQL Server
+- PostgreSQL
+- Python
+- Power Query
+- Power BI
+  
+## Proyecto Destacado: 
+Proy_KPI_Customer_Success_SaaS
   
